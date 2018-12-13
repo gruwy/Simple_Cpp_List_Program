@@ -1,0 +1,17 @@
+Bella Tallinn Toostuse 33 3 A B C
+Aleksei Tallinn Haabersti 26 2 A B 
+Felix Tallinn Gumnaasiumi 17 1 A 
+Vladimir Tallinn Graniidi 11 0 
+Anna Tallinn Gaasi 4 3 A B C
+Anastasia Tallinn Forelli 13 0 
+Igor Tallinn Joe 6 1 A 
+Egor Tallinn Energia 134 3 A B C
+Vlad Tallinn Haaviku 36 2 A B 
+David Tallinn Haigu 77 0 
+Rafael Tallinn Aarde 44 5 A B C D E
+Ilya Tallinn Aida 55 0 
+Dan Tallinn Ao 66 4 A B C D
+Marsel Tallinn Gonsiori 787 0 
+Viktor Tallinn Filmi 99 7 A B C D E F G
+Oleg Tallinn Falgi 45 0 
+Anton Tallinn Friedrich 44 3 A B C

@@ -1,0 +1,10 @@
+[System] Name: %Name	Address: City.Street.666
+[System] Name: -Name	Address: City.Street.666
+[System] Name: eName	Address: City.Street.666
+[System] Name: FName	Address: City.Street.666
+[System] Name: HName	Address: City.Street.666
+[System] Name: lName	Address: City.Street.666
+[System] Name: Name	Address: City.Street.666
+[System] Name: PName	Address: City.Street.666
+[System] Name: xName	Address: City.Street.666
+[System] Name: yName	Address: City.Street.666
